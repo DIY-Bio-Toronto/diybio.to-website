@@ -12,4 +12,4 @@ Make your changes in github, commit and push.
 
 `git ftp push` to push the latest changes.
 
-**NOTE** This is incomplete. Wating for @ewansinclair.
+**NOTE** This is incomplete. Wating for @ewan-sinclair.
